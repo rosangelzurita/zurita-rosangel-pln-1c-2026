@@ -1,4 +1,4 @@
-# Procesamiento del Lenguaje Natural (PLN)
+# IFTS 24| Procesamiento del Lenguaje Natural (PLN)
 
 Repositorio correspondiente a la materia **Procesamiento del Lenguaje Natural**, donde se desarrollan contenidos teóricos, prácticos y de laboratorio a lo largo de la cursada.
 
